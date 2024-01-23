@@ -1,0 +1,273 @@
+repo_name: ramzimalhas/add-to-calendar-button
+report_id: 247b87ba320c663718965ca66ebdeef6
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T06:59:17+00:00'
+requested_by: jekuer
+provider: github
+branch: main
+detected_tools_count: 20
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 4.8.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-11-17 19:46:39.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2021-11-03 13:08:43.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/.github/workflows/codeql-analysis.yml
+  detection_source: ".github/workflows/codeql-analysis.yml"
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-10-17 20:09:16.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.5.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-08-31 18:35:44.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-06-24 15:09:10.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 14.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-11-17 19:46:39.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2021-11-03 13:08:43.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.43.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-11-17 19:46:39.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.43.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-11-17 19:46:39.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-11-17 19:46:39.000000000 Z
+- name: eslint-plugin-security
+  description: Security rules for eslint
+  package_url: https://www.npmjs.com/eslint-plugin-security
+  version: 1.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17069/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-11-17 19:46:39.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-10-18 16:38:13.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-10-18 16:38:13.000000000 Z
+- name: grunt-contrib-cssmin
+  description: Minify CSS
+  package_url: https://www.npmjs.com/grunt-contrib-cssmin
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-10-18 16:38:13.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 5.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-10-18 16:38:13.000000000 Z
+- name: stylelint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/stylelint-config-prettier
+  version: 9.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16896/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-11-17 19:46:39.000000000 Z
+- name: stylelint-config-standard
+  description: Standard shareable config for stylelint
+  package_url: https://www.npmjs.com/stylelint-config-standard
+  version: 29.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16266/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/ramzimalhas/add-to-calendar-button/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jens Kuerschner
+  last_updated_on: 2022-11-17 19:46:39.000000000 Z
