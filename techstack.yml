@@ -2,7 +2,7 @@ repo_name: ramzimalhas/add-to-calendar-button
 report_id: 247b87ba320c663718965ca66ebdeef6
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T06:59:17+00:00'
+timestamp: '2024-02-29T19:32:38+00:00'
 requested_by: jekuer
 provider: github
 branch: main
@@ -92,7 +92,7 @@ tools:
   last_updated_by: Jens Kuerschner
   last_updated_on: 2022-08-31 18:35:44.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
